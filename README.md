@@ -1,2 +1,2 @@
-project-euler hey
+Project Euler solutions.
 =============
