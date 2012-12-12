@@ -19,18 +19,13 @@ namespace Euler2
                 if (var1 + var2 == i)
                 {
                     if (i%2 != 0)
-                    {
                         acum += i;
-                    }
 
                     if (var1 < var2)
-                    {
                         var1 = i;
-                    }
+
                     else if (var1 >= var2)
-                    {
                         var2 = i;
-                    }
                 }
             }
             
